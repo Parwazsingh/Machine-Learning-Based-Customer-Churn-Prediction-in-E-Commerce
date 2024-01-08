@@ -1,7 +1,7 @@
 # Machine-Learning-Based-Customer-Churn-Prediction-in-E-Commerce
 
 ## Project Overview
-This project focuses on predicting customer churn in the e-commerce sector using machine learning techniques. The research paper by Mr. Parwaz Singh Sarao, Mr. Pushpendu Arunkumar Samanta, and Ms. Maria Nancy from SRM Institute of Science and Technology forms the basis of this work. It emphasizes the cost-effectiveness of retaining existing customers in e-commerce and employs various machine learning models for churn prediction.
+This project focuses on predicting customer churn in the e-commerce sector using machine learning techniques. It emphasizes the cost-effectiveness of retaining existing customers in e-commerce and employs various machine learning models for churn prediction.
 
 ## Data Description
 The data comprises transactional and demographic details of e-commerce customers. Key attributes include purchase history, payment methods, customer demographics like age, gender, income, education, and location.
